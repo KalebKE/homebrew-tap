@@ -7,24 +7,24 @@ class Roboranch < Formula
   on_macos do
     on_arm do
       url "https://github.com/KalebKE/RoboRanch/releases/download/v0.2.0/roboranch_v0.2.0_darwin_arm64.tar.gz"
-      sha256 "a4fb92aa786cf6e879102c06912997653beaac4fba039b9875f44803782060b3"
+      sha256 "ede53d6863267453048d21aa90b967cd884405b5cd9e53d1cbc192dd0b8d77b4"
     end
 
     on_intel do
       url "https://github.com/KalebKE/RoboRanch/releases/download/v0.2.0/roboranch_v0.2.0_darwin_amd64.tar.gz"
-      sha256 "f65284330a74ea451daaa371b90c0f2848caae6810c21d07dfc5be04830e7a1f"
+      sha256 "f6b66a3ef4dd03d842c5e068ceedc086136f2c31152d36175841bcd7cdd2f5f4"
     end
   end
 
   on_linux do
     on_arm do
       url "https://github.com/KalebKE/RoboRanch/releases/download/v0.2.0/roboranch_v0.2.0_linux_arm64.tar.gz"
-      sha256 "3dcac557d64a2f509ca15ea39520acb38e118f1f0f2175355900499db1039f4c"
+      sha256 "fce745445b815e46a1cd9bbf547aaf42ab8279c57bda4667de5079993da1241d"
     end
 
     on_intel do
       url "https://github.com/KalebKE/RoboRanch/releases/download/v0.2.0/roboranch_v0.2.0_linux_amd64.tar.gz"
-      sha256 "4963e7ced87dc834b5c2cc9ffa367329b23ae409dcb30f2f06adc23483198851"
+      sha256 "9fb34aa5edfed95c3db71e6f01fb98a2b8f7d59a4f8c95e815f039398d8f0894"
     end
   end
 
